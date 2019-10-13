@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TrippinUserCreator": {
+      "commandName": "Project",
+      "commandLineArgs": "users.json"
+    }
+  }
+}
